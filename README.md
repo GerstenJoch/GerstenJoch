@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @GerstenJoch
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning java and making minecraft servers
+- 🌱 I’m currently programming in python and building/programming a robot in java
+with my robot team PrettySmartRobotics#16441 for FTC Netherlands
 - 📫 How to reach me discord: GerstenJoch#4688
 
 <!---
